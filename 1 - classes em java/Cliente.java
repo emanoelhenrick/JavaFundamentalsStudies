@@ -1,3 +1,10 @@
+import pacote1.Classe1;
+
+/**
+ * @version 1.0
+ * @deprecated
+ * @see Classe1
+ */
 public class Cliente {
   
   private int codigo;
