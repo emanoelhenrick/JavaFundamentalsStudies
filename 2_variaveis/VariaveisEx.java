@@ -1,4 +1,4 @@
-public class variaveis {
+public class VariaveisEx {
   
   private int codigo;
   private long codigoMaior;

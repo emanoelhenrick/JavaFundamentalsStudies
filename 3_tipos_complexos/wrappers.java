@@ -1,4 +1,4 @@
-public class wrappers {
+public class Wrappers {
   
   private Integer codigo;
   private Long codigoMaior = 187219l;
