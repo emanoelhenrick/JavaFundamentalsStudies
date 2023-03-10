@@ -10,7 +10,7 @@ public class variaveis {
   private short codigoPequeno;
   private byte codigoMenorAinda;
 
-  public String retornaTexto() {
+  public String retornaTexto() { 
     return "opa";
   }
 
