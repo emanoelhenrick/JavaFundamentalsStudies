@@ -1,4 +1,4 @@
-package pacote1;
+package a1_classes.pacote1;
 
 public class Classe1 {
   

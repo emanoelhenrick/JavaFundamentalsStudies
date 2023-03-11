@@ -1,4 +1,4 @@
-package pacote2;
+package a1_classes.pacote2;
 
 import pacote1.Classe1;
 import pacote1.Classe2;

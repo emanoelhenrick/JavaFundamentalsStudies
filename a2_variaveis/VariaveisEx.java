@@ -1,3 +1,4 @@
+package a2_variaveis;
 public class VariaveisEx {
   
   private int codigo;
