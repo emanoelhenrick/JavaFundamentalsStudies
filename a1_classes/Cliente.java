@@ -1,5 +1,5 @@
 package a1_classes;
-import pacote1.Classe1;
+import a1_classes.pacote1.Classe1;
 
 /**
  * @version 1.0

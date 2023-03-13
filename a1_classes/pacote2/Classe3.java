@@ -1,7 +1,7 @@
 package a1_classes.pacote2;
 
-import pacote1.Classe1;
-import pacote1.Classe2;
+import a1_classes.pacote1.Classe1;
+import a1_classes.pacote1.Classe2;
 
 public class Classe3 extends Classe2 {
   
